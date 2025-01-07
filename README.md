@@ -10,7 +10,7 @@ This project is a Python-based tool designed to search for relevant APIs from a 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10.11 (Tested on Windows 10)
 - Required Python packages: `json`, `logging`, `decouple`, `uuid`
 - External modules: `utils`, `find_apis`, `codebox`
 
@@ -25,7 +25,7 @@ This project is a Python-based tool designed to search for relevant APIs from a 
 2. **Install Dependencies**:
    Ensure you have all the required Python packages installed. You can use `pip` to install any missing packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r reqs.txt
    ```
 
 3. **Configuration**:
