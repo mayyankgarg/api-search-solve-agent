@@ -1,0 +1,4 @@
+markdownify
+codeboxapi
+ipython
+matplotlib
