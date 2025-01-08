@@ -55,12 +55,6 @@ This project is a Python-based tool designed to search for relevant APIs from a 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## Contact
-
-For any questions or issues, please contact [Your Name] at [Your Email].
